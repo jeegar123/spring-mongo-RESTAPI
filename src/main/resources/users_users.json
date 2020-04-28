@@ -1,0 +1,30 @@
+[
+  {
+    "_id": {"$oid": "5ea6e195b12afd3f65485907"},
+    "_class": "com.springmongo.app.model.Users",
+    "age": 21,
+    "name": "Jeegar",
+    "role": "admin"
+  },
+  {
+    "_id": {"$oid": "5ea7a554b8a4ec618cf1450f"},
+    "_class": "com.springmongo.app.model.Users",
+    "age": 21,
+    "name": "hello",
+    "role": "admin"
+  },
+  {
+    "_id": {"$oid": "5ea7a558b8a4ec618cf14510"},
+    "_class": "com.springmongo.app.model.Users",
+    "age": 21,
+    "name": "hello",
+    "role": "admin"
+  },
+  {
+    "_id": {"$oid": "5ea7a55ab8a4ec618cf14511"},
+    "_class": "com.springmongo.app.model.Users",
+    "age": 21,
+    "name": "hello",
+    "role": "admin"
+  }
+]
